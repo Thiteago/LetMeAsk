@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/LetMeAsk-NLW/static/css/main.60b024f5.chunk.css",
-    "main.js": "/LetMeAsk-NLW/static/js/main.639aa64c.chunk.js",
-    "main.js.map": "/LetMeAsk-NLW/static/js/main.639aa64c.chunk.js.map",
-    "runtime-main.js": "/LetMeAsk-NLW/static/js/runtime-main.97b0e8a2.js",
-    "runtime-main.js.map": "/LetMeAsk-NLW/static/js/runtime-main.97b0e8a2.js.map",
-    "static/js/2.9ace88bd.chunk.js": "/LetMeAsk-NLW/static/js/2.9ace88bd.chunk.js",
-    "static/js/2.9ace88bd.chunk.js.map": "/LetMeAsk-NLW/static/js/2.9ace88bd.chunk.js.map",
-    "index.html": "/LetMeAsk-NLW/index.html",
-    "static/css/main.60b024f5.chunk.css.map": "/LetMeAsk-NLW/static/css/main.60b024f5.chunk.css.map",
-    "static/js/2.9ace88bd.chunk.js.LICENSE.txt": "/LetMeAsk-NLW/static/js/2.9ace88bd.chunk.js.LICENSE.txt",
-    "static/media/google-icon.df15d8e5.svg": "/LetMeAsk-NLW/static/media/google-icon.df15d8e5.svg",
-    "static/media/illustration.ae7276f0.svg": "/LetMeAsk-NLW/static/media/illustration.ae7276f0.svg",
-    "static/media/logo.a88331cb.svg": "/LetMeAsk-NLW/static/media/logo.a88331cb.svg"
+    "main.css": "/letmeask/static/css/main.60b024f5.chunk.css",
+    "main.js": "/letmeask/static/js/main.639aa64c.chunk.js",
+    "main.js.map": "/letmeask/static/js/main.639aa64c.chunk.js.map",
+    "runtime-main.js": "/letmeask/static/js/runtime-main.f09468dc.js",
+    "runtime-main.js.map": "/letmeask/static/js/runtime-main.f09468dc.js.map",
+    "static/js/2.af02f89f.chunk.js": "/letmeask/static/js/2.af02f89f.chunk.js",
+    "static/js/2.af02f89f.chunk.js.map": "/letmeask/static/js/2.af02f89f.chunk.js.map",
+    "index.html": "/letmeask/index.html",
+    "static/css/main.60b024f5.chunk.css.map": "/letmeask/static/css/main.60b024f5.chunk.css.map",
+    "static/js/2.af02f89f.chunk.js.LICENSE.txt": "/letmeask/static/js/2.af02f89f.chunk.js.LICENSE.txt",
+    "static/media/google-icon.df15d8e5.svg": "/letmeask/static/media/google-icon.df15d8e5.svg",
+    "static/media/illustration.ae7276f0.svg": "/letmeask/static/media/illustration.ae7276f0.svg",
+    "static/media/logo.a88331cb.svg": "/letmeask/static/media/logo.a88331cb.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.97b0e8a2.js",
-    "static/js/2.9ace88bd.chunk.js",
+    "static/js/runtime-main.f09468dc.js",
+    "static/js/2.af02f89f.chunk.js",
     "static/css/main.60b024f5.chunk.css",
     "static/js/main.639aa64c.chunk.js"
   ]
